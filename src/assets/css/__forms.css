@@ -1,0 +1,13 @@
+input {
+  border: none;
+}
+
+select {
+  border: none;
+  background: #FFFFFF;
+}
+
+.medium-size {
+  border-radius: 17px;
+  height: 32px;
+}
